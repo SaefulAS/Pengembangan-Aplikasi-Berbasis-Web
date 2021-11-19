@@ -121,7 +121,7 @@ else{
 </div>
 <br>
 <footer class="container-fluid">
-  <p>&copy; Created By <a href="https://phpoison.blogspot.com" target="_blank">Saeful Abdulloh Sayuti</a></p>
+  <p>&copy; Created By <a href="https://instagram.com/saefulas_" target="_blank">Saeful Abdulloh Sayuti</a></p>
 </footer>
 <?php } ?>
 </body>
