@@ -1,6 +1,6 @@
 # perpus
 aplikasi perpus PHP dan bootstrap
-Nomor 1 = Terdapat di File dokumentasi
+<p> Nomor 1 = Terdapat di File dokumentasi </p>
 Nomor 2 = UML Use case diagram terdapat di file dokumentasi
 Nomor 3 = Halaman full page terdapat pada repository pengembangan aplikasi berbasis web ,dimulai admin,user(petugas) sampai penghubung (config,database).
 Nomor 4 = Class diagram terdapat dalam file dokumentasi
