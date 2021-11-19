@@ -6,7 +6,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">PHP Poison</a>
+      <a class="navbar-brand" href="#">Perpustakaan SMK PGRI 1 Kota Sukabumi</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav"><!-- 
